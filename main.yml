@@ -1,0 +1,7 @@
+---
+
+- name: Provision Mitzi App deployer
+  import_playbook: mitzidotcom.userinfo.config
+
+...
+
